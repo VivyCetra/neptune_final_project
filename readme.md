@@ -20,15 +20,15 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Title of my project Viviana Project 
+# Title of my project: Cell lineage of the *Lepidodermella squamata* (Gastrotrich) 
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+The goal of my project is to find a way to calculate the distance between each cells in a cell leneage of *Lepidodermella squamata*.
 
-The methods I will use to do this are...
+In order to do this, I will use Python 
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
+The data I will use are my own data 
 
 ## Methods
 
