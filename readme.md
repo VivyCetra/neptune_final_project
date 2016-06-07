@@ -24,7 +24,7 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of this project is to calculate the distance between cells in a cell lineage of *Lepidodermella squamata*. For this I will not use all the cells in the cell lineage but a selection of cells, located between the first and the lates stages.
+The goal of this project is to calculate the distance between cells in a cell lineage of *Lepidodermella squamata*. For this I will use a selection of labeled cells, located between the first and the lates stages.
 
 In order to do this, I will create a new function using Python language, for calculate the distance between the labeled cells in the cell lineage.
 
