@@ -20,15 +20,15 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Title of my project: Cell lineage of the *Lepidodermella squamata* (Gastrotrich) 
+# Title of my project: Cell distance calculation in the cell lineage of the *Lepidodermella squamata* (Gastrotrich) 
 
 ## Introduction and Goals
 
-The goal of my project is to find a way to calculate the distance between each cells in a cell leneage of *Lepidodermella squamata*.
+The goal of this project is to calculate the distance between cells in a cell lineage of *Lepidodermella squamata*. For this I will not use all the cells in the cell lineage but a selection of cells, located between the first and the lates stages.
 
-In order to do this, I will use Python 
+In order to do this, I will create a new function using Python language, for calculate the distance between the labeled cells in the cell lineage.
 
-The data I will use are my own data 
+The data I will use are data from Andreas Hejnol lab, Sars Centre (Bergen, NO).
 
 ## Methods
 
