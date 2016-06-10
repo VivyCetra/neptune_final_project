@@ -13,18 +13,15 @@ mydict=defaultdict(list)
 for Line in InFile:
 	if len(Line.split())==1:
 		holder=str(counter)
-		print (holder)
-		print ('cell_number'+Line)
 		counter+=1
-
- 
+	
 	else:
 		mydict['cell-'+holder].append([Line.split()[1],Line.split()[2]])
 		
 
 
 for keys in mydict.keys():
-	if len(mydict[keys]) == 1:
+	if len(mydict[keys]) == 1: #check for 0 or 1 observations
 		continue
 	result = numpy.array(mydict[keys])
 	mindist = numpy.min(pdist(result))
