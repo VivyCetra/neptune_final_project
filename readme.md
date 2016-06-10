@@ -13,8 +13,7 @@ The data I used are from Andreas Hejnol lab, Sars Centre (Bergen, NO). Unfortuna
 ![L.squamata_fig.png](L.squamata_fig.png)
 
 ## Methods
-
-I used 
+ 
 
 ## Result
 
