@@ -1,7 +1,6 @@
 # Neptune Computational Biology - Final Project - Viviana
 
-# Cell distance calculation in the cell lineage of the *Lepidodermella squamata*
-# (Gastrotrich) 
+# Cell distance calculation in the cell lineage of the *Lepidodermella squamata*(Gastrotrich) 
 
 ## Introduction and Goals
 
