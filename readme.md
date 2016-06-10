@@ -30,13 +30,13 @@ In order to do this, I will create a new function using Python language, for cal
 
 The data I will use are data from Andreas Hejnol lab, Sars Centre (Bergen, NO).
 
+![L.squamata_fig.png](./L.squamata_fig.png?raw=true)
+
 ## Methods
 
 The tools I used were... See analysis files at (links to analysis files).
 
 ## Results
-
-![Figure 1](./Figure1.png?raw=true)
 
 In Figure 1...
 
